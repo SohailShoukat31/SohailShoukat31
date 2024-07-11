@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Web3, and AI Enthusiast.
-- 👀 I’m interested in  Web developing
+- 👋 Hi, I’m Web3, Web developer & AI Enthusiast.
+- 👀 I’m interested in  Web developing & Artificial intelligence.
 - 🌱 I’m currently learning Gen Ai,Web3.0 & Metaverse
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
