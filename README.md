@@ -1,3 +1,5 @@
+# Hello, Iam Sohail
+<hr>
 - 👋 Hi, I’m  I am a web developer, designer, and passionate about Generative AI.
 - 👀 I’m interested in  Web developing , web Application & Artificial intelligence.
 - 🌱 I’m currently learning Gen Ai,Web3.0 & Metaverse
